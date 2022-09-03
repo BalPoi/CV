@@ -4,12 +4,10 @@
 
 ## Junior Front-End Developer
 
----
-
 ### Contacts
 
 * **Phone:** +375 44 477-70-07
-* **E-mail:** balpoi000@gmail.com
+* **E-mail:** [balpoi000@gmail.com](mailto:balpoi000@gmail.com)
 * **Telegram:** [@balpoi](https://t.me/balpoi)
 * **Discord RSS:** Pavel Bal (@balpoi)
 * **[LinkedIn](https://www.linkedin.com/in/balpoi/)**
