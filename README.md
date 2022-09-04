@@ -12,6 +12,7 @@
 * **Discord RSS:** Pavel Bal (@balpoi)
 * **[LinkedIn](https://www.linkedin.com/in/balpoi/)**
 * **[Skype](https://join.skype.com/invite/CC3fiVvLcLeg)**
+* Gomel, Belarus
 
 ---
 
@@ -36,7 +37,7 @@ Full of drive to learn new things and develop myself as a Front end developer.
 * C#            (Basic)
 * Java          (Basic)
 
-#### Frameworks and Library
+#### Frameworks and Librarys
 
 * Vue.js        (Basic)
 
@@ -45,7 +46,7 @@ Full of drive to learn new things and develop myself as a Front end developer.
 * MySQL Server  (Pre-intermediate)
 * PostgreSQL    (Basic)
 
-#### IDE
+#### IDEs
 
 * VS Code           (Intermediate)
 * WebStorm          (Pre-intermediate)
